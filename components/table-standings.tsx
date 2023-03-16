@@ -9,7 +9,7 @@ const matchesByPhase = [
     phase: 'Quartas-de-final',
     matches: [
       { player1: 'André', player2: 'Pedro', status: 'Finalizada', scorePlayer1: [4, 6, 2], scorePlayer2: [6, 2, 6] },
-      { player1: 'Leandro', player2: 'Felipe', status: 'A marcar', scorePlayer1: [null, null, null], scorePlayer2: [null, null, null] },
+      { player1: 'Leandro Novaes', player2: 'Felipe', status: 'A marcar', scorePlayer1: [null, null, null], scorePlayer2: [null, null, null] },
       { player1: 'Diego', player2: 'Cássio', status: 'Finalizada', scorePlayer1: [9, null, null], scorePlayer2: [6, null, null] },
     ],
   },
